@@ -459,6 +459,21 @@ export const members: Member[] = [
   },
   // ============================================
 
+  {
+    id: "isha-shenoy",
+    name: "Isha Shenoy",
+    website: "https://ishashenoy.dev",
+    program: "Management Engineering",
+    year: "2030",
+    roles: ["product", "software"],
+    verticals: ["ai", "saas", "consumer"],
+    profilePic: "/photos/isha-shenoy.png",
+    connections: [],
+    instagram: "https://www.instagram.com/ishas_14/",
+    twitter: "https://x.com/ichiberries",
+    linkedin: "https://www.linkedin.com/in/ishashenoy/",
+  },
+
   // ADD YOUR ENTRY ABOVE THIS LINE
   // ============================================
 ];
